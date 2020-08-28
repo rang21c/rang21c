@@ -2,7 +2,9 @@
 ---
 ### Hi there 👋 
 
-![rang21c's github stats](https://github-readme-stats.vercel.app/api?username=rang21c&show_icons=true)
+![rang21c's github stats](https://github-readme-stats.vercel.app/api?username=rang21c&show_icons=true&theme=radical)
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rang21c)](https://solved.ac/rang21c)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rang21c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
