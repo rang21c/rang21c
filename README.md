@@ -5,9 +5,12 @@
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rang21c)](https://solved.ac/rang21c)
 
 ## Github Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=rang21c&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=rang21c&theme=react&show_icons=true" height="180px">
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rang21c&theme=react&exclude_repo=WordCloud,Crawling&layout=compact" height="180px">
+</a>
 
 <br/>  
 
