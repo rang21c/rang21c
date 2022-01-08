@@ -3,7 +3,7 @@
 
 ## Algorithm
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rang21c)](https://solved.ac/rang21c)
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=rang21c&theme=warm)
 ## Github Stats  
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=rang21c&theme=react&show_icons=true" height="180px">
